@@ -1,0 +1,2 @@
+# On-The-Map
+This project of the nano degree program uses API to retrieve data of the students who are currently working on the nano degree program and are doing this project. There is a map view on which pins are there which point to the locations of the students. By clicking on the pin a url appears and if we click on the url it opens in safari. There also exists a table view which displays the names and respective urls of the students and clicking on a cell will also open the url.
